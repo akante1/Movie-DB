@@ -1,0 +1,10 @@
+# secrets - never on GitHub
+config.py
+
+# generated data - rebuilt by running the scripts
+*.csv
+*.db
+
+# python junk
+venv/
+__pycache__/
